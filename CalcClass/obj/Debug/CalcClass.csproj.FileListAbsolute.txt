@@ -1,0 +1,5 @@
+C:\Users\Назарко\Desktop\Calculator-master\Calculator-master\CalcClass\bin\Debug\CalcClass.dll
+C:\Users\Назарко\Desktop\Calculator-master\Calculator-master\CalcClass\bin\Debug\CalcClass.pdb
+C:\Users\Назарко\Desktop\Calculator-master\Calculator-master\CalcClass\obj\Debug\CalcClass.csprojResolveAssemblyReference.cache
+C:\Users\Назарко\Desktop\Calculator-master\Calculator-master\CalcClass\obj\Debug\CalcClass.dll
+C:\Users\Назарко\Desktop\Calculator-master\Calculator-master\CalcClass\obj\Debug\CalcClass.pdb
