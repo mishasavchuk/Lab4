@@ -1,0 +1,7 @@
+C:\Users\Назарко\Desktop\Calculator-master\Calculator-master\AnalyzerClass\bin\Debug\AnalyzerClass.dll
+C:\Users\Назарко\Desktop\Calculator-master\Calculator-master\AnalyzerClass\bin\Debug\AnalyzerClass.pdb
+C:\Users\Назарко\Desktop\Calculator-master\Calculator-master\AnalyzerClass\bin\Debug\CalcClass.dll
+C:\Users\Назарко\Desktop\Calculator-master\Calculator-master\AnalyzerClass\bin\Debug\CalcClass.pdb
+C:\Users\Назарко\Desktop\Calculator-master\Calculator-master\AnalyzerClass\obj\Debug\AnalyzerClass.csprojResolveAssemblyReference.cache
+C:\Users\Назарко\Desktop\Calculator-master\Calculator-master\AnalyzerClass\obj\Debug\AnalyzerClass.dll
+C:\Users\Назарко\Desktop\Calculator-master\Calculator-master\AnalyzerClass\obj\Debug\AnalyzerClass.pdb
